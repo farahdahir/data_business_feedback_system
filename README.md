@@ -342,8 +342,8 @@ This project is open source and available for use and modification.
 ## 👤 Author
 
 **farahdahir**
-- GitHub: [@LABOSO123](https://github.com/farahdahir)
-- Repository: [Feedback-system](https://github.com/farahdahir/data_business_feedback_system)
+- GitHub: [@farahdahir](https://github.com/farahdahir)
+- Repository: [data_business_feedback_system](https://github.com/farahdahir/data_business_feedback_system)
 
 ## 🙏 Acknowledgments
 
