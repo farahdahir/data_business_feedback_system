@@ -75,7 +75,7 @@ A comprehensive **feedback management platform** designed to streamline communic
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/farahdahir/data_business_feedback_system
+git clone https://github.com/farahdahir/data_business_feedback_system.git
 cd Feedback-system
 ```
 
