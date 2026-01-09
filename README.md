@@ -75,7 +75,7 @@ A comprehensive **feedback management platform** designed to streamline communic
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/LABOSO123/Feedback-system.git
+git clone https://github.com/farahdahir/data_business_feedback_system
 cd Feedback-system
 ```
 
@@ -341,9 +341,9 @@ This project is open source and available for use and modification.
 
 ## 👤 Author
 
-**LABOSO123**
-- GitHub: [@LABOSO123](https://github.com/LABOSO123)
-- Repository: [Feedback-system](https://github.com/LABOSO123/Feedback-system)
+**farahdahir**
+- GitHub: [@LABOSO123](https://github.com/farahdahir)
+- Repository: [Feedback-system](https://github.com/farahdahir/data_business_feedback_system)
 
 ## 🙏 Acknowledgments
 
@@ -351,9 +351,3 @@ This project is open source and available for use and modification.
 - Designed to streamline communication between Business and Data Science teams
 
 ---
-
-**⭐ Star this repository if you find it useful!**
-
-**🔄 Active Development** - This project is actively maintained and updated. Contributions are welcome!
-#   d a t a _ b u s i n e s s _ f e e d b a c k _ s y s t e m  
- 
